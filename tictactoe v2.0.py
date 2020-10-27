@@ -2,7 +2,7 @@ import pygame
 from random import randint as random
 pygame.init()
 size = 200
-r = int(size//2.5
+r = int(size//2.5)
 ots = 10
 RES = 3*size +  2 * ots, 3*size +  2 * ots
 sc = pygame.display.set_mode((RES))
